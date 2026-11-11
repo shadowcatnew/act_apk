@@ -2,11 +2,15 @@
   "apps": [
     {
       "name": "YouTube (Móvil)",
-      "apkUrl": "https://cloud.droidapks.com/YouTube_Premium_v21.42.243_(1561304941).apk?token=1792339723.stuizmRqSPfAjNKqGBlxGKQ-46pIdKjvXmMLs-z1vN0"
+      "apkUrl": "https://cloud.droidapks.com/YouTube_Premium_v21.45.82_(1561310997)_Mod.apk?token=1794414785.LoL7U3RnZMGQeErIomaKPkztoBf65SSkJmufeAyAAZw"
     },
     {
       "name": "YouTube Music (Móvil)",
-      "apkUrl": "https://cloud.droidapks.com/YT_Music_Premium_v9.41.52_(94152240).apk?token=1792340873.jC4_nbUQ1_OwCHKF3Nw4FDy03zBfkAV0sbuabQzYsnU"
+      "apkUrl": "https://cloud.droidapks.com/YT_Music_Premium_v9.41.52_(94152240).apk?token=1794415104.vBkwlODI2RjuVTSBNVMS4eOCr2Rm5y8n0Bce8rMvak4"
+    },
+    {
+      "name": "MicroG-RE",
+      "apkUrl": "https://github.com/MorpheApp/MicroG-RE/releases/download/7.3.0/microg-7.3.0.apk"
     },
     {
       "name": "Canta",
